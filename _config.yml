@@ -39,10 +39,10 @@ timezone:      null
 
 
 #Site config
-title: 9leg
-description: java,scala
-keywords: java,scala
-url: http://9leg.com
+title: Legendlc
+description: Yet Another Jekyll Blog
+keywords: My blog
+url: ""
 feed: /atom.xml
 favicon: /images/shortcut.jpg
 
@@ -61,14 +61,12 @@ nav:
 
 #Author config
 author:
-    name: zhujiajun
-    email: zhujiajun.me@gmail.com
+    name: legendlc
+    email: llc_legend@163.com
     imageLink: /images/header.jpg
-    simpleIntro: I Have a Dream
+    simpleIntro: One day, I will...
     detailIntro:
-      <p>广告界的程序猿</p>
-      <p>目前在点评工作</p>
-      <p>主要使用Java,Scala不断学习中...</p>
+      <p>Looking for a job...</p>
       <p></p>
 
 #Follow me, you can choose your icon by http://fortawesome.github.io/Font-Awesome/icons/#brand
@@ -80,55 +78,48 @@ follow:
   - class: icon-facebook
     url: http://facebook.com/
   - class: icon-github-alt
-    url: https://github.com/zJiaJun/
+    url: https://github.com/legendlc/
   - class: icon-twitter
-    url: https://twitter.com/zhujiajun_me
-  - class: icon-google-plus
-    url: https://plus.google.com/116595571760191938657/about
+    url: https://twitter.com/
 
 #Links
 customLinks:
   - item:
-    - text: 技术小黑屋
-      url: http://droidyue.com/
+    - text: zJiaJun
+      url: http://9leg.com/
     - text: Jekyll
       url: http://jekyllrb.com
     - text: Jekyll Theme
-      url: http://www.zhanxin.info/themes.html
+      url: https://rubygems.org/search?utf8=%E2%9C%93&query=jekyll-theme
+    - text: duoshuo
+      url: http://duoshuo.com/
+    - text: Baidu tongji
+      url: http://tongji.baidu.com
     message: Friends    
   - item:
-    - text: Java Code Geeks
-      url: http://www.javacodegeeks.com/
-    - text: Web Developer
-      url: http://www.fromdev.com/
-    - text: BeginnersBook
-      url: http://beginnersbook.com/
-    - text: Mkyong
-      url: http://www.mkyong.com/
-    - text: Java By Nataraj
-      url: http://javabynataraj.blogspot.in/
-    message: About Java
+    - text: Markdown tutorial
+      url: http://www.appinn.com/markdown/basic.html
+    message: Tutorials
 
 #googleAnaly, your id link UA-12345678-X
 googleAnaly:
   config: false
-  id: UA-58146229-1
+  id: 
 
 #baidu tongji
 baiduTongji:
   config: true
-  id: c12b560f0372d5995701449b9eac606c
+  id: de215d861932c7375aece2a351580091
 
 #comment config
 disqus:
   config: false
-  id: piznblog
+  id: 
 
 duoshuo:
   config: true
-  id: 9leg
+  id: legendlc
 
 #baidu share config
 baiduShare:
   config: true
-  
