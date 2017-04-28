@@ -1,7 +1,7 @@
-#[9leg.com](http://9leg.com/)
+# [legendlc.github.io](legendlc.github.io)
 
 
-###请使用自己申请的网站统计Id，评论Id等
+### 请使用自己申请的网站统计Id，评论Id等
 
 如今网络是开源的年代，茫茫多的框架。
 
@@ -29,9 +29,9 @@ googleAnaly:
 
 ```
 baiduTongji:
-	
+
   	config: true
-  	
+
   	id: Your-id-is-here
 ```
 
@@ -39,7 +39,7 @@ baiduTongji:
 disqus:
 
   config: false
-  
+
   id: Your-id-is-here
 ```
 
@@ -47,7 +47,7 @@ disqus:
 duoshuo:
 
   config: true
-  
+
   id: Your-id-is-here
 ```
 
@@ -70,7 +70,3 @@ baiduShare是baidu分享插件，比较实用。
 ##重复,请使用自己申请的网站统计Id，评论Id等。
 
 什么？怎么申请？google去...
-
-
-
-
