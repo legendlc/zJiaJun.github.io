@@ -50,7 +50,7 @@ favicon: /images/shortcut.jpg
 nav:
   - text: 首页
     url: /index.html
-  - text: 分类目录 
+  - text: 分类目录
     url: /categories.html
   - text: 文章归档
     url: /archives.html
@@ -74,9 +74,9 @@ follow:
   - class: icon-rss
     url: /atom.xml
   - class: icon-weibo
-    url: http://weibo.com/
+    url: https://weibo.com/
   - class: icon-facebook
-    url: http://facebook.com/
+    url: https://facebook.com/
   - class: icon-github-alt
     url: https://github.com/legendlc/
   - class: icon-twitter
@@ -92,10 +92,10 @@ customLinks:
     - text: Jekyll Theme
       url: https://rubygems.org/search?utf8=%E2%9C%93&query=jekyll-theme
     - text: duoshuo
-      url: http://duoshuo.com/
+      url: https://duoshuo.com/
     - text: Baidu tongji
-      url: http://tongji.baidu.com
-    message: Friends    
+      url: https://tongji.baidu.com
+    message: Friends
   - item:
     - text: Markdown tutorial
       url: http://www.appinn.com/markdown/basic.html
@@ -104,7 +104,7 @@ customLinks:
 #googleAnaly, your id link UA-12345678-X
 googleAnaly:
   config: false
-  id: 
+  id:
 
 #baidu tongji
 baiduTongji:
@@ -114,7 +114,7 @@ baiduTongji:
 #comment config
 disqus:
   config: false
-  id: 
+  id:
 
 duoshuo:
   config: true
